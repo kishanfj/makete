@@ -1,0 +1,4 @@
+2022/03/09 02:44:09 [error] 32218#32218: *48139 access forbidden by rule, client: 195.201.2.214, server: wordpress-724299-2474188.cloudwaysapps.com, request: "GET /.env HTTP/1.1", host: "139.180.180.240"
+2022/03/09 02:44:10 [error] 32218#32218: *48143 access forbidden by rule, client: 195.201.2.214, server: wordpress-724299-2474188.cloudwaysapps.com, request: "GET /core/.env HTTP/1.1", host: "139.180.180.240"
+2022/03/09 02:44:11 [error] 32218#32218: *48145 access forbidden by rule, client: 195.201.2.214, server: wordpress-724299-2474188.cloudwaysapps.com, request: "GET /app/.env HTTP/1.1", host: "139.180.180.240"
+2022/03/09 02:44:12 [error] 32218#32218: *48147 access forbidden by rule, client: 195.201.2.214, server: wordpress-724299-2474188.cloudwaysapps.com, request: "GET /public/.env HTTP/1.1", host: "139.180.180.240"

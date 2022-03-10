@@ -1,0 +1,5 @@
+46.101.200.95 - - [09/Mar/2022:00:22:26 +0000] "\x16\x03\x01\x01\xFE\x01\x00\x01\xFA\x03\x03\xF9+Wp\xC9\x8A\x9C\xD5\xFD\xFA\xB4\xEB\x90\xFD\xF5u\x9Fu<;\xC2\x1E\xCFI\x0B\xFD\x09YA\xFF9\xB0\x00\x01<\xCC\x14\xCC\x13\xCC\x15\xC00\xC0,\xC0(\xC0$\xC0\x14\xC0" 400 150 "-" "-"
+195.201.2.214 - - [09/Mar/2022:02:44:09 +0000] "GET /.env HTTP/1.1" 403 177 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36"
+195.201.2.214 - - [09/Mar/2022:02:44:10 +0000] "GET /core/.env HTTP/1.1" 403 177 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36"
+195.201.2.214 - - [09/Mar/2022:02:44:11 +0000] "GET /app/.env HTTP/1.1" 403 177 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36"
+195.201.2.214 - - [09/Mar/2022:02:44:12 +0000] "GET /public/.env HTTP/1.1" 403 177 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36"
